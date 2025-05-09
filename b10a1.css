@@ -1,13 +1,14 @@
 .azeret-mono-normal {
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
   }
   .top{
     display: flex;
     justify-content: space-between;
     padding: 40px 150px;
+    align-items: center;
   }
 
   .btn-main{
@@ -35,6 +36,7 @@
     font-weight: 300;
     font-size: 16px;
     margin-bottom: 32px;
+    opacity: 80%;
   }
   .mid-main{
     background-image: url(B10A1-Challenge-Begins/assets/Hero-bg.png);
@@ -49,9 +51,69 @@
   .btn-primary{
     font-size: 20px;
     font-weight: 600;
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: #0D1321;
     color: white;
     height: 65px;
     width: 244px;
   }
+  .titles{
+    text-align: center;
+
+  }
+
+  .mid-section{
+    margin: 74px 150px 90px 150px;
+    background-color: rgb(242, 246, 248);
+    border-radius: 16px;
+    padding: 80px 100px;
+
+  }
+  .btn-m{
+    font-weight: 600;
+    font-size: 20px;
+    height: 47px;
+    width: 171px;
+    padding: 12px 20px;
+    margin-bottom: 58px;
+    margin-top: 32px;
+    
+  }
+
+.section-title{
+    font-size: 32px;
+    font-weight: bolder;
+    margin-bottom: 24px;
+
+}
+
+
+  .section-description{
+   font-size: 15px;
+   font-weight: 400;
+   opacity: 80%;
+   margin-bottom: 48px;
+  }
+
+.first{
+    height: 336px;
+    width: 946px;
+    padding: 48px;
+    background-color: white;
+    display: flex;
+
+}
+.first-title{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: rgb(87, 83, 83);
+    margin-top: 58px;
+    
+}
+.first-description{
+opacity: 70%;
+font-size: 16px;
+margin-bottom: 32px;
+}
+
