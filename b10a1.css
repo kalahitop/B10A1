@@ -117,3 +117,142 @@ font-size: 16px;
 margin-bottom: 32px;
 }
 
+.video-title{
+    font-size: 32px;
+    font-weight: bolder;
+    margin-bottom: 24px;
+}
+.video-description{
+    font-size: 16px;
+    font-weight: 300;
+    opacity: 80%;
+    margin-bottom: 48px;
+    margin-right: 144px;
+    margin-left: 144px;
+}
+
+.section-video{
+    text-align: center;
+    margin: auto;
+  
+}
+
+.video-box{
+    margin: 161px 150px 150px 150px;
+    padding: 32px ;
+    border-radius: 16px;
+    border: 1px solid rgb(204, 171, 171);
+    
+}
+.video{
+    margin: auto;
+   
+    width: 1070px;
+    height: 550px;
+}
+
+.skill-title{
+    font-size: 32px;
+    font-weight: bolder;
+    margin-bottom: 8px;
+}
+.skill-description{
+    font-size: 16px;
+    font-weight: 300;
+    opacity: 80%;
+    margin-bottom: 24px;
+}
+
+
+.skills{
+    display: flex;
+    margin-bottom: 111px;
+}
+.ct-title{
+    font-size: 32px;
+    font-weight: bolder;
+    margin-bottom: 24px;
+}
+.ct-description{
+    font-size: 16px;
+    font-weight: 300;
+    opacity: 80%;
+    margin-bottom: 48px;
+    padding: 0px 47px;
+}
+.ct-top{
+    text-align: center;
+    padding: 0px 100px ;
+    margin-bottom: 48px;
+}
+.html{
+   margin-right: 24px;
+   background-color: rgba(255, 76, 30, 0.05) ;
+   padding: 40px;
+   text-align: left;
+   border-radius: 16px;
+}
+
+.css{
+    margin-right: 24px;
+    background-color: rgba(0, 76, 232, 0.05) ;
+    padding: 40px;
+    text-align: left;
+    border-radius: 16px;
+}
+
+.JavaScript{
+    margin-right: 24px;
+    background-color: rgba(255, 223, 0, 0.05) ;
+    padding: 40px;
+    text-align: left;
+    border-radius: 16px;
+}
+
+.skill-pic{
+    margin-bottom: 24px;
+}
+
+.css{
+    margin-right: 24px;
+}
+.skill-upcoming-container{
+    margin: 0px 150px;
+}
+
+.skill-upcoming{
+    border: 1px solid rgb(136, 126, 126);
+    height: 219px;
+    width: 1140px;
+    border-radius: 16px;
+    padding: 40px;
+    display: flex;
+}
+
+.img-dibba{
+    padding:30px 40px 30px 0px ;
+    margin: 30px 40px 30px 0px;
+}
+
+.target{
+    margin-bottom: 50px;
+}
+.anchor{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+.dibba-h4{
+    font-size: 24px;
+    font-weight: bolder;
+    margin-bottom: 8px;
+}
+
+.dibba-p{
+    font-size: 16px;
+    font-weight: 300;
+    opacity: 80%;
+    margin-bottom: 40px;
+}
+
+
